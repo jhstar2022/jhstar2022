@@ -1,7 +1,7 @@
 ### <div align="center">안녕하세요. 개발자 이정효 입니다. 👨‍💻 잘부탁드립니다.🚀</div>  
   
 
-- 🔭 저는 신입개발자입니다. [Github Profilinator](https://github.com/jhstar2022/profile)  
+- 🔭 저는 신입개발자입니다.
   
 
 - 🌱 현재 개발공부를 하고 있습니다.  
